@@ -1,0 +1,5 @@
+node_modules
+.vscode
+log-error.txt
+log.txt
+package-lock.json
